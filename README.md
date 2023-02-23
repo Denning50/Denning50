@@ -1,5 +1,5 @@
 Hi there! 👋
-Welcome to my GitHub profile! I'm Josh Dennign, a senior engineer in manufacturing with a passion for technology. Here you can find a selection of my personal and professional projects.
+Welcome to my GitHub profile! I'm Josh Denning, a senior engineer in manufacturing with a passion for technology. Here you can find a selection of my personal and professional projects.
 
 🔍 About Me
 Experienced manufacturing professional with a proven track record of driving digital transformation and operational excellence in manufacturing organizations. Skilled in identifying and implementing new technologies, automating processes and driving efficiency improvements to increase productivity and reduce costs. Strong background in Lean Six Sigma, Industry 4.0 and IoT. Passionate about leveraging technology to drive innovation, improve quality and enhance customer satisfaction. Looking to bring my expertise to a new manufacturing organization and help them achieve their digital transformation goals 
